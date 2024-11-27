@@ -1,0 +1,10 @@
+^C:\USERS\SURFACE\ONEDRIVE\DOCUMENTS\MY PROJECT\MOBILE\TUTORIEL\AGRIMAR\BUILD\WINDOWS\X64\CMAKEFILES\344C0307756D5707BFB0E07D3DE251C5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/SURFACE/OneDrive/Documents/My Project/Mobile/Tutoriel/agrimar/windows" "-BC:/Users/SURFACE/OneDrive/Documents/My Project/Mobile/Tutoriel/agrimar/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/SURFACE/OneDrive/Documents/My Project/Mobile/Tutoriel/agrimar/build/windows/x64/agrimar.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
