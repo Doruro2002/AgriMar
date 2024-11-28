@@ -295,7 +295,9 @@ class LoginScreen extends StatelessWidget {
                           style: TextStyle(color: titleFontColorGrey),
                         ),
                         TextButton(
-                            onPressed: () {},
+                            onPressed: () {
+                              Navigator.pushNamed(context, '/register');
+                            },
                             child: const Text(
                               "Sign up",
                               style: TextStyle(color: lightGreen),
