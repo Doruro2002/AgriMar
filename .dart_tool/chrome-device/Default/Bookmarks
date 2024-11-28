@@ -1,0 +1,387 @@
+{
+   "checksum": "2b8c4f1a1fbd5224c20cd9ed0155a0be",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13284034438590290",
+            "date_last_used": "0",
+            "guid": "36804061-cd49-4843-a1e5-8017314fb9d3",
+            "id": "6",
+            "name": "Nouvel onglet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13361226931298140",
+            "date_last_used": "0",
+            "guid": "d61ba075-6511-49ef-84d8-a2e72017c0f5",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Claude",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://claude.ai/chats",
+            "visit_count": 0
+         }, {
+            "date_added": "13363272446979611",
+            "date_last_used": "13366659000654941",
+            "guid": "a5aa859b-16c1-413a-a4d5-03a6ff9ef90e",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PomoFriends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pomofriends.app/",
+            "visit_count": 0
+         }, {
+            "date_added": "13363455374122382",
+            "date_last_used": "13367100045248197",
+            "guid": "3810db6f-7363-4988-bf83-6b80067587d6",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Awwwards - Website Awards - Best Web Design Trends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.awwwards.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13363534600661811",
+            "date_last_used": "0",
+            "guid": "0174ec74-e7fe-4e4b-9bb5-5d489110b4c9",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dark Themed Web Design Inspiration",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dark.design/",
+            "visit_count": 0
+         }, {
+            "date_added": "13363900690373749",
+            "date_last_used": "13377039470021180",
+            "guid": "a50321dc-5dd8-416d-a465-8f5f6e7993e0",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SlidesCarnival: Free PowerPoint & Google Slides Templates That Stand Out",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.slidescarnival.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13363900753107835",
+            "date_last_used": "0",
+            "guid": "fa4f449e-ea11-4245-869a-faa0a3cafc2c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Slidenest | Present your ideas with free presentation templates",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://slidenest.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13365387634226692",
+            "date_last_used": "0",
+            "guid": "806c5981-5794-441d-a37a-dae574aaf38d",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "English news and easy articles for students of English",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.newsinlevels.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13365387637226261",
+            "date_last_used": "0",
+            "guid": "cc565316-5bd4-4498-a086-620f90e6a757",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Voice of America - Learn American English with VOA Learning English",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learningenglish.voanews.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13371591126784453",
+            "date_last_used": "0",
+            "guid": "d7e5eaf9-e944-47e9-8968-21236ec6e870",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Partagez & Découvrez des Présentations | SlideShare",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fr.slideshare.net/",
+            "visit_count": 1
+         }, {
+            "date_added": "13369087596754875",
+            "date_last_used": "0",
+            "guid": "fb6a722f-d94c-4347-8434-f593253fe3c2",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Canva - Logo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGO4_AdT74/ZeKGXQMsH7Rv7j12kEhpIA/edit?category=tACZCvjI6mE",
+            "visit_count": 1
+         }, {
+            "date_added": "13374220243927575",
+            "date_last_used": "0",
+            "guid": "ad8ee121-ac4a-42fa-92d8-782665488aad",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Get Tutorials & Training | Tut4IT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tut4it.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13370258375879175",
+            "date_last_used": "0",
+            "guid": "00cba508-fa05-4bc9-829b-2e6754009453",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Movies and Series Online Free",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tinyzonetv.stream/home/",
+            "visit_count": 1
+         }, {
+            "date_added": "13371460702634761",
+            "date_last_used": "0",
+            "guid": "e6a77b58-85ce-4db0-b1ec-17c651e3607f",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ACM Digital Library",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dl.acm.org/",
+            "visit_count": 1
+         }, {
+            "date_added": "13374430869760751",
+            "date_last_used": "0",
+            "guid": "c6b0e2ce-8098-4374-b0ac-46ba6cddef1f",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Anything",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn-anything.xyz/",
+            "visit_count": 1
+         }, {
+            "date_added": "13371537919069370",
+            "date_last_used": "0",
+            "guid": "d6631f89-2aff-4bd9-9ef0-c34ec46c313f",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Convolutional Neural Network Tutorial | CNN 2025",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network",
+            "visit_count": 1
+         }, {
+            "date_added": "13374431473869171",
+            "date_last_used": "13374531576617403",
+            "guid": "3711b2f6-5a5e-489a-bb4d-af547b372cc0",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Research ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.connectedpapers.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13374474983318297",
+            "date_last_used": "0",
+            "guid": "6762e03f-0b45-4b9c-840b-15cf3e9a5a9b",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouLearn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youlearn.ai/",
+            "visit_count": 1
+         }, {
+            "date_added": "13374582900988662",
+            "date_last_used": "13374584604066556",
+            "guid": "0d7960a0-84d5-476b-b740-b2e9dcb1dbfd",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Generation Torrent Search Engine | Bitsearch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bitsearch.to/",
+            "visit_count": 2
+         }, {
+            "date_added": "13374706065891521",
+            "date_last_used": "0",
+            "guid": "5d6dea09-c1b6-47b2-8701-9d57bb926806",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AlternativeTo - Crowdsourced software recommendations",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://alternativeto.net/",
+            "visit_count": 1
+         }, {
+            "date_added": "13375051492409430",
+            "date_last_used": "0",
+            "guid": "bfc09e74-4135-4c71-ab6d-1b27a4ebabd7",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NiREvil/windows-activation: Activation of Windows 10 using cmd within 30 seconds.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/NiREvil/windows-activation",
+            "visit_count": 1
+         }, {
+            "date_added": "13375055394614384",
+            "date_last_used": "13376845608861898",
+            "guid": "2c2c9851-665e-444e-afdd-c5dd876304e8",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard | 365 Data Science",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.365datascience.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13375132163452776",
+            "date_last_used": "0",
+            "guid": "1002a362-6927-4a70-aae4-241bd89cf906",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Inkscape - Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://inkscape.en.softonic.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13376846502567153",
+            "date_last_used": "0",
+            "guid": "cbe7f2dd-12a1-4c49-bdf7-78819dfa689b",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DevOps, CI/CD(Continuous Integration/Delivery) for Beginners دانلود",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://downloadly.ir/elearning/video-tutorials/devops-ci-cdcontinuous-integration-delivery-for-beginners/",
+            "visit_count": 1
+         }, {
+            "date_added": "13376847606749455",
+            "date_last_used": "0",
+            "guid": "78545b3a-d59c-4a6d-905f-26a02d1e79a6",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hacksnation.com/d/34081-learn-devops-cicd-with-jenkins-using-pipelines-and-docker",
+            "visit_count": 1
+         } ],
+         "date_added": "13377254829346868",
+         "date_last_used": "0",
+         "date_modified": "13376847606749455",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377254829346871",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377254829346874",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHsy+WSTAQAAEgAqGFVKWHFnTzdGZjBoZ0V0Z0RYK0JlUkE9PUgDoAYHEq8BCB0SqgEKHGw1dlpyRTdraHBJQXNXWTgrTi9iNmNkWTVvRT0SJGNiZTdmMmRkLTEyYTEtNGM0OS1iZGY3LTc4ODE5ZGZhNjg5YhgAIAAoADDa7eLLtTI4mu/iy7UyQJrv4su1MkocMVpMZG1Gbk1OUlF0YjdWWkVXdFVwd1FoRUVvPVohIh///+w0dnFKbEZCdVVsUGZMSXY2ckUwWDNTaHpqamM9Zc3X4W/CPgJgBRKvAQgbEqoBChxYR25WWE9yOS9hMTlmMDgvS3BGWk5BYkV3MGs9EiQyYzJjOTg1MS02NjVlLTQ0NGUtYWZkZC1jNWRkODc2MzA0ZTgYACAAKAAwxvasy7UyOPiq2vWuMkD4qtr1rjJKHFdHSmJHbjdlUGhVM0pUN2tlZnBNYUhSb2lwUT1aISIf//+xNmhvZkdHTVJuSTZxNE55YiszeldJdk1tSU9RPWW30Zdmwj4CYAUSrgEIGhKpAQocZ3JPRUtwYnhzZ215ZnFCUGxBNmRGTVh3eG1NPRIkYmZjMDllNzQtNDEzNS00YzcxLWFiNmQtMWIyN2E0ZWJhYmQ3GAAgACgAMOCS7POuMjjsk+zzrjJA7JPs864yShxaUk52aWI1OUdMUUpKMGpmVm9OVU15Q3FZdWc9WiAiHv//Y01yd1h1TUF2VkVaMldRK3VLcEttRFRaQkIwPWXI8z+7wj4CYAUSrgEIGBKpAQocd0Z4VVp6Q2pUeS9SdTY4b0cybTYvQXZUT2QwPRIkMGQ3OTYwYTAtODRkNS00NzZiLWI3NDAtYjJlOWRjYjFkYmZkGAAgACgAMP6r4POuMjj4s+DzrjJA+LPg864yShw3WnpRVThoR3dPTFZBM0ZkS2hPbDAyNXZwUTg9WiAiHv/9cHhBczNVWlNTZERoK3NkOU1CbjRUUllWUHBvPWWAqM8Swj4CYAUSrwEIHBKqAQocUnB2cDE0YWtWbmoreC9ETHJ0UU13WERGczZzPRIkMTAwMmEzNjItNjkyNy00YTcwLWFhZTQtMjQxYmQ4OWNmOTA2GAAgACgAMJ3sp5qvMjiJ7aearzJAie2nmq8yShxZWUkvT1RxYndPUURCUHM2SWY4bWhiWHFzaTA9WiEiH///2DFvWWtjTy9UZU5lYVl4VG9ESTFWNE9EWWpwdz1lXWmJeMI+AmAFEq4BCBQSqQEKHERzc1NxNXNyQit5Wkp5aFZhMENnb3FYVWRUbz0SJGM2YjBlMmNlLTgwOTgtNDM3NC1iMGFjLTQ2YmE2Y2RkZWYxZhgAIAAoADD/q+DzrjI4lrTg864yQJa04POuMkocMzB4UUR0ZWREL1VUWWN2L0JETmFmRDRCSEZjPVogIh7/6XJrMU1XOFZpdnVsMUJKV0YxSTNhRzRXRTQ1OD1lKxb4S8I+AmAFEq4BCBcSqQEKHDBPbko1NzVocEhTTFVZR1NsRmdUZEp6K1hkMD0SJDY3NjJlMDNmLTBiNDUtNGI5Yy04NDBiLTE1Y2YzZTlhNWE5YhgAIAAoADD9q+DzrjI42bPg864yQNmz4POuMkocQ3l4YVlUQlZNd3FGMU1iYWRUTWxheGd5cE5zPVogIh7/+nliZUJsb3piMURMRmkyTldLVGx1a09rYjNkcz1levJBRMI+AmAFEq4BCBYSqQEKHHJYVTNmcngzQ0F1OTJ3V1VaNXhWS0Z0dWhudz0SJDM3MTFiMmY2LTVhNWUtNDg5YS1iYjRkLWFmNTQ3YjM3MmNjMBgAIAAoADD8q+DzrjI4uLPg864yQLiz4POuMkocc1Ridm5COXVYL0hLSGdES2Y0MjZHNnFpOXVJPVogIh7/9GZYYjVCNlRHNENIVnhaWCtCNGdBSUh4Y2crcz1lO7LogMI+AmAFEq8BCB4SqgEKHDJEQXR5Y2M4QUNqbEhjR3RpbWEzRVdacHpwYz0SJDc4NTQ1YjNhLWQ1OWMtNGE2ZC05MDVmLTI2YTAyZDFlNzlhNhgAIAAoADCYpqbMtTI436imzLUyQN+opsy1MkocTmVBb3pzclMxRGwwSFIvTTYrbkJNL3RFM3pBPVohIh////Y1VFdyQStRTkoydmFpVGFrMVdYTnlPUTMzSWc9ZXVi3jvCPgJgBRKuAQgVEqkBChxqZy94bHRVR01HUmNhanpWNmZFSkhvcVRLc3M9EiRkNjYzMWY4OS0yYWZmLTRiZDktOWVmMC1jMzRlYzQ2YzMxM2YYACAAKAAwyLng864yOKvWuOihMkCr1rjooTJKHGdXblZjb3VGd0NoRXpDbGVwWjU0ZHNReWhqcz1aICIe//QwVEVvQVdObVVCK0VSSVUrRGU4TVZ5dno5YlU9ZelZivLCPgJgBRKuAQgSEqkBChxyWmdnZHN3MUtVcGFhK1daNkNnblVkV2wxbDQ9EiQwMGNiYTUwOC1mYTA1LTRiYzktODI5Yi0yZTY3NTQwMDk0NTMYACAAKAAwyrng864yOOi+p4adMkDovqeGnTJKHGpHYk45bHZySG5laUdrRlVzM2lsSzlLTzJ0VT1aICIe/9NiNGdQc3FhR0F6UExCY0UxUUFuMnNiKzU0L009ZdNqeujCPgJgBRKuAQgREqkBChxVMWtiVnhFRHJQZGxZR2d0OEFBSVMzTm93am89EiRhZDhlZTEyMS1hYzRhLTQyZmEtOTJkOC03ODI2NjU0ODhhYWQYACAAKAAw+avg864yOP6y4POuMkD+suDzrjJKHHY2WEtRYUtZRWxTbHI5UDN5TTdhcHlnOE82dz1aICIe/9NQMGNyRFlqUFFqcGFrT1hSODBJTlpPeFowbGM9Zbomg8jCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmOGIzYjczYy0zZDIyLTU0ZGEtYjQ2Ni05ZmQ0YTRjM2M1ZDcYACAAKAAwxujY5IgvONrC/diAMEDawv3YgDBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrgEIDxKpAQocMXg5V1YvMjNBWDZWZkdNTXZ4anl2NmVMaEJNPRIkZDdlNWVhZjktZTk0NC00N2U5LTg5NjgtMjEyMzZlYzZlODcwGAAgACgAMNLx9POuMjias+DzrjJAmrPg864yShxOTEY0NndXMGREbTFmbGZXaFhwdjZBNnJ1ZEE9WiAiHv+mL3IyblBmTyt3Qm9iZzBLZUlQSVBidHI4RDR3PWWOniuLwj4CYAUSrQEIDRKoAQocUFlxN0VQZWVqK00rRVhmRUp6dFNGcm5HSWdRPRIkODA2YzU5ODEtNTc5NC00NDFkLWEzN2EtZGFlNTc0YWFmMzhkGAAgACgAMOaH4fOKMjjziOHzijJA84jh84oyShxadnBUMUpqMVdKTkJYNGRKb1NYUUFQSnFJeGM9Wh8iHf5Fdk16b3M2b1dVQXQ4NzE3am11RFJiK0VodGM9ZZkHnH7CPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlOTZhMTJhMC04YmJmLTVmMmItYjZlMC0wOTExMDExNzgxYjgYACAAKAAwwujY5IgvOM7B/diAMEDOwf3YgDBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEICxKoAQocLzNoTTlpR1M3SE9FZHF0Vnk5c3NqMjVKYzdzPRIkYTUwMzIxZGMtNWRkOC00MTZkLWE0NjUtOGY1ZjZlNzk5M2UwGAAgACgAMPrk5Ke2MjjQlN2uhTJA0JTdroUyShx5NFhVN2p5RXRDekkzbXpPM3NoR2VyWmhnQUE9Wh8iHfpKTG1xM3pXcnlRZFR0TmxPb3NaWTdKSThIdDA9ZRdD77bCPgJgBRKtAQgIEqgBChxFMUJGWFcxdnBUK2xETE91emV2dk5DRGsvS2c9EiRhNWFhODU5Yi0xNmMxLTQxM2EtYTRkNS0wM2E2ZmY5ZWY5MGUYACAAKAAw6In/0Y8yON2mlIODMkDdppSDgzJKHHliSUxHTVBvQTd5dE96ZzFSc1VJNVZhNnZvVT1aHyId0lhLVXEyZDFXRmp0bUJxVElqQ1NiQlJOUy9GYz1lsQGLlMI+AmAFEq4BCBMSqQEKHG9MV0lKc0NVNmNYNkdEUHlOUXNVaFk2aE5ZVT0SJGU2YTc3YjU4LTg1Y2UtNGRiMC1iMWVjLTE3YzY1MWUzNjA3ZhgAIAAoADDHueDzrjI4vdLPw6EyQL3Sz8OhMkocbXYwcE5DTEprd3lVTXBPN2lOQTE0Zm9ORTlzPVogIh7/6W9tbG1UUG1SbFI3YmRNb1dDUGNXMVRyenRHVT1lTPu+rsI+AmAFEq0BCAoSqAEKHEZ5ZC9WQVhZa1hWc1Juc1FkSjVmNExQRlBjbz0SJDAxNzRlYzc0LWU3ZmUtNGU0Yi05YmI1LTVkNDg5MTEwYjRjORgAIAAoADDx55SAhDI4sOiUgIQyQLDolICEMkocSi9WbnZEV0NvVDJlQXhyOXBoc24zeVZ6VWQ0PVofIh30V0g3dVowdTIrMW0rRVR4QjYxZTNTZWdJRWtZPWWkadDIwj4CYAUSrgEIGRKpAQocaTR2STNld0U3and5ZTVlWEJrMTE5a2tTS2UwPRIkNWQ2ZGVhMDktYzFiNi00N2IyLTg3MDEtOWQ1N2JiOTI2ODA2GAAgACgAMMa54POuMji9xODzrjJAvcTg864yShxPcUJpMFVpeHd4MkxjNVEwSGRnaWdOcUlCMm89WiAiHv/+ZGkzVDRFdTM1Mk5qZUZ6dkZnYUtOQUVQY0ZFPWVpR1r8wj4CYAUSrQEICRKoAQocQkRnV3FtY3lXdXNRbStYcUtRdlBCVmtNYzNBPRIkMzgxMGRiNmYtNzM2My00OTg4LWJmODMtNmI4MDA2NzU4N2Q2GAAgACgAMKnJpqSRMji7kLDagzJAu5Cw2oMyShxSaE56MEV1Z241TkRDdDRmVVlhaGRoQkJQSkE9Wh8iHellYTIzcGFxejBSZkY5aDY5YXVIY3pnOExITnc9Zbj6rHfCPgJgBRKsAQgGEqcBChwzRVRqQndaQzJTVTNLek5aVlorejA3OWh6Sk09EiQzNjgwNDA2MS1jZDQ5LTQ4NDMtYTFlNS04MDE3MzE0ZmI5ZDMYACAAKAAw0Yy5qJAyOODg/diAMEDg4P3YgDBKHG9CeEZuRTBzMlZYVEE0UlJha2ZtNDBpMkFRST1aHiIcSkc0QWVlR2dYYXQ3OW5JT2tXazgxNis1bnlJPWXYr7ACwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNzFlODQ5OGMtZDQyNC01OGNlLTkxMDMtMTBmMDE0NjhkZDA3GAAgACgAMMHo2OSILziuwf3YgDBArsH92IAwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCAwSqAEKHFpKTWpHS09ZR1l4bkxyOStQT29ZMzZsR0s3VT0SJGZhNGY0NDllLWVhMTEtNDI0NS04NjlhLWZhYTBhM2NhZmMyYxgAIAAoADC+/uCuhTI47P/groUyQOz/4K6FMkocZWxvZFhMMGl1U0hIaHRWM1ZWdnIzMWNkOC9JPVofIh39T0dYMndZdzAvZktaQkZMdjhpaHQvZTVBTGVjPWXQCySiwj4CYAUSrQEIDhKoAQocbUp3YWlMNnVGaWdZQzZlMFBINzFPcWhDb2M0PRIkY2M1NjUzMTYtNWJkNC00NDk4LWEwODYtNjIwZjkwZTZhNzU3GAAgACgAMIOf4fOKMji/oOHzijJAv6Dh84oyShwvOU9WMkk1Y2x2dGhhelJXVWJnRGtEdHpqQ3M9Wh8iHf9NK1lrOEE0YnNpS1hRK1ExWVBZZWgrYzAvLzA9ZTx2DLPCPgJgBRKtAQgHEqgBChxVQ0VXNGdVVUdqbjFZWHh5SGdzQWplR2VUL2c9EiRkNjFiYTA3NS02NTExLTQ5ZWYtODRkOC1hMmU3MjAxN2MwZjUYACAAKAAwmtLjs/sxOI3T47P7MUCN0+Oz+zFKHFVoUWE0VkhwRUhDVVdOMEszWE5NdmpTc2IyVT1aHyIdpUQ5MDBvcVJneXZtVGdEQ3ZxWWtpVHZxRmlPST1ldV+GJcI+AmAFEq4BCBASqQEKHFNjNTh3cEhTWHYzOXd2RmNsNm1UMGQybzM2Yz0SJGZiNmE3MjJmLWQ5NGMtNDM0Ny04NDM0LWY1OTMyNTNmZTNjMhgAIAAoADDJueDzrjI4gNqE2JgyQIDahNiYMkoccTBJcHZUZ0tiMGJ0aGZKUnRQRlFvc1F1anE0PVogIh7/pkVIbG1VQVhaUjRGL2tuenEzejdMdVRaLy9KRT1lzuVKWsI+AmAFMAA4AA==",
+   "version": 1
+}
