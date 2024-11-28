@@ -1,0 +1,14 @@
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/assets/icon/google.png
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/assets/icon/Logo.png
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/saif/Documents/My Projects/Mobile/AgriMar/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
