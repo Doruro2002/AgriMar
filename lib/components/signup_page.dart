@@ -78,7 +78,7 @@ class RegisterScreen extends StatelessWidget {
                             color: Colors.green,
                             width: 0,
                           ))),
-                      keyboardType: TextInputType.emailAddress,
+                      keyboardType: TextInputType.name,
                     ),
                   ),
                   const SizedBox(
@@ -151,6 +151,7 @@ class RegisterScreen extends StatelessWidget {
                     width: 300,
                     height: 40,
                     child: TextFormField(
+                      obscureText: true,
                       cursorColor: buttonGreen,
                       decoration: const InputDecoration(
                           suffixIcon: Icon(
@@ -169,7 +170,7 @@ class RegisterScreen extends StatelessWidget {
                             color: Colors.green,
                             width: 0,
                           ))),
-                      keyboardType: TextInputType.emailAddress,
+                      keyboardType: TextInputType.visiblePassword,
                     ),
                   ),
                   const SizedBox(

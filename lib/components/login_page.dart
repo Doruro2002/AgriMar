@@ -202,6 +202,7 @@ class LoginScreen extends StatelessWidget {
                     width: 300,
                     height: 40,
                     child: TextFormField(
+                      obscureText: true,
                       cursorColor: buttonGreen,
                       decoration: const InputDecoration(
                           suffixIcon: Icon(
@@ -220,7 +221,7 @@ class LoginScreen extends StatelessWidget {
                             color: Colors.green,
                             width: 0,
                           ))),
-                      keyboardType: TextInputType.emailAddress,
+                      keyboardType: TextInputType.visiblePassword,
                     ),
                   ),
                   const SizedBox(
